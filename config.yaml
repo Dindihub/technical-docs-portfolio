@@ -5,12 +5,11 @@ languageCode: en-us
 build:
   writeStats: true
 params:
-  title: aafu theme
+  title: 
   author: Darshan Baral
   description: Website title
   copyright: >-
-    powered by [hugo](https://gohugo.io/) & deployed on
-    [Cloudflare](https://www.cloudflare.com/)
+    powered by [hugo](https://gohugo.io/) 
   theme:
     mainTheme: dark
     showAttribute: true
@@ -26,34 +25,24 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "First Last, Abbr."
-    tagline: Title
-    location: "City Name, ST"
-    photo: profile.jpg
+    name: "Sandra Dindi"
+    tagline: Technical Writer 
+    location: ""
+    photo: sandra park pic.jpg
   social:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/in/sandra-dindi/"
         title: LinkedIn
-      - icon: fab fa-stack-overflow
-        url: "#"
-        title: StackOverflow
       - icon: fab fa-github
-        url: "#"
+        url: "https://github.com/Dindihub"
         title: GitHub
       - icon: fab fa-twitter
-        url: "#"
+        url: "https://twitter.com/Nyartech_"
         title: Twitter
-      - icon: fab fa-orcid
-        url: "#"
-        title: Orcid
-      - icon: ai ai-google-scholar
-        url: "#"
-        title: Google Scholar
-      - icon: fab fa-researchgate
-        url: "#"
-        title: ResearchGate
+
+     
   showInAccordion:
     - item: aboutme
       expand: true
@@ -66,40 +55,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: This is a demo of the `aafu` theme. It has `light` and `dark` theme.
-  experience:
-    title: Experiences
-    icon: fas fa-briefcase
-    list:
-      - position: Job Title
-        dates: 2019 - *Present*
-        company: Company Name
-        details: |1-
-          - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
-      - position: Job Title
-        dates: 2018 - 2019
-        url: "#"
-        company: Company Name
-  education:
-    title: Education
-    icon: fas fa-graduation-cap
-    list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
+    description: I am a Technical writer with three years of experience writing Product documentation, Marketing copy, technical blog posts, User guides, and API documentation to ease the adoption and use of software technologies.
   publication:
     title: Publications
     icon: fas fa-book
@@ -110,32 +66,43 @@ params:
       - journal
     types:
       - Journal Articles
-      - Proceedings
+      
     list:
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
+          Marketing articles on AI content on Copyfast.ai blog
+        authors: ""
+        date: "Copyfast.ai"
+        journal: ""
+        url: "https://www.copyfast.ai/blog"
         type: Journal Articles
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
+          My collection of technical articles on the Make Use of (MUO) website
+        authors: ""
+        date: "Make Use Of website"
+        journal: ""
+        url: "https://www.makeuseof.com/author/sandra-dindi/"
         type: Journal Articles
       - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Proceedings
+          CI/CD with GitHub Actions guide:A step-to-step guide on building, testing, and deploying merged pull requests to production with GitHub Actions
+        authors: ""
+        date: "My Hashnode blog"
+        journal: ""
+        url: "https://nyartech.hashnode.dev/create-a-cicd-process-with-github-actions"
+        type: Journal Articles
+      - title: >-
+          Product guide for Earlyaccesshq.com: This guide demostrates to users how to optimize the product’s advanced features to create a wailist tailored for business and marketing campaigns
+        authors: ""
+        date: "Earlyaccesshq.com blog"
+        journal: ""
+        url: "https://www.earlyaccesshq.com/resources/guide/how-to-create-a-waitlist-page"
+        type: Journal Articles
+      - title: >-
+          Tutorial on Kubernetes Qos classes: This tutorial introduces the concept of Quality of service (QoS)classes and shows the learner how to correctly configure the QoS classes in a pod for resource management.This is one of the projects I worked on together with the platform enginners and documentation team to create several tutorials on Kubernetes tools and features.
+        authors: ""
+        date: "Sematext blog"
+        journal: ""
+        url: "https://sematext.com/glossary/kubernetes-quality-of-service-classes/"
+        type: Journal Articles
   project:
     title: Projects
     icon: fas fa-project-diagram
@@ -152,6 +119,28 @@ params:
       - title: Project 4
         url: "#"
         description: Description of the project
+  education:
+    Title: Education and Training
+    icon: fas fa-graduation-cap
+    list:
+      - degree: Technical Writing Mentorship
+        college: Linux Foundation
+        dates: June 2024- August 2024
+  
+      - degree: Google Developers Technical Writing Course
+        college: Google
+        dates: 2023
+
+      - degree: Certified Cloud Practitioner
+        college: Amazon web services
+        dates: 2023
+      - degree: Software Development Certification
+        college: Moringa School Bootcamp
+        dates: 2022
+      - degree: Bachelor of Arts and Media Studies
+        college: University of Nairobi
+        
+  
   skill:
     title: Skills
     panelId: skill-panel
