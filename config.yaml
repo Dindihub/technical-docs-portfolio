@@ -59,7 +59,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: Three years of experience as a technical writer specializing in technical blog posts, marketing and website copy, technical guides,Information architecture (IA) assessments, and API documentation to facilitate the adoption and use of software technologies
+    description: Three years of experience as a technical writer specializing in technical blog posts, marketing and website copy, technical guides, Information architecture (IA) assessments, and API documentation to facilitate the adoption and use of software technologies
   publication:
     title: Publications
     icon: fas fa-book
