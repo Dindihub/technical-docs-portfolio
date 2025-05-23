@@ -45,7 +45,7 @@ params:
      
   showInAccordion:
     - item: aboutme
-      expand: true
+      expand: false
     - item: experience
       expand: false
     - item: education
