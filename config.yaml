@@ -46,15 +46,13 @@ params:
   showInAccordion:
     - item: aboutme
       expand: false
-    - item: experience
-      expand: false
-    - item: education
-      expand: false
     - item: publication
       expand: false
     - item: project
       expand: false
     - item: skill
+      expand: false
+    - item: education
       expand: false
     - item: hobby
       expand: false
