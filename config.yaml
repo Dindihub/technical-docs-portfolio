@@ -107,18 +107,23 @@ params:
     title: Projects
     icon: fas fa-project-diagram
     list:
-      - title: Project 1
-        url: "#"
-        description: Description of the project
-      - title: Project 2
-        url: "#"
-        description: Description of the project
-      - title: Project 3
-        url: "#"
-        description: Description of the project
-      - title: Project 4
-        url: "#"
-        description: Description of the project
+      
+      - title: Redesign of the CNCF Vitess Project Website
+        url: "https://github.com/vitessio/website/issues/1955"
+        description: Ongoing project to implement CNCF analysis and recommendations of the Vitess website
+      - title: CNCF TUF Website Assessment and Redesign 
+        url: "https://github.com/Dindihub/TUF-docs-analysis/tree/main/analyses/0012-TUF"
+        description: This project was part of my mentorship at the Linux Foundation.I analyzed The Update Framework (TUF) documentation and providing improvements according to the CNCF standards.I worked with  mentors from CNCF and TUF to provide improvement to the current website which included creating a new documentation website.
+
+      - title: Twilio API Reference Docs on Readme.io
+        url: "https://twilio-api-docs.readme.io/reference/getting-started-with-your-api"
+        description: A personal project trying to document the Twilio API on Readme.io
+      - title: TMDB Movies API Reference Docs on Postman
+        url: "https://documenter.getpostman.com/view/23043806/2s9YXb8QQ9"
+        description: A personal project recreating the TMDB Movies API reference documentation Postman
+      - title: Full-stack Recipe Website
+        url: "https://recipe-nyumbani.fly.dev/"
+        description: My capstone project from a Software development bootcamp. It's a full-stack website where users can log in and post their recipes.
   education:
     Title: Education and Training
     icon: fas fa-graduation-cap
@@ -146,16 +151,16 @@ params:
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "Skill 1, Skill 2"
+      - skill: "Markdown,Git,HTML,CSS"
         skillrating: 90
-      - skill: Skill 3
+      - skill: "Hugo,Postman,Readme.io"
         skillrating: 80
-      - skill: Skill 4
+      - skill: "SQL,Python/Django,Ubuntu,Docker,AWS"
         skillrating: 50
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
     list:
-      - hobby: Cooking
+      - hobby: Hugging trees
       - hobby: Hiking
-      - hobby: Baking
+      - hobby: Watching documentaries and crime shows :)
