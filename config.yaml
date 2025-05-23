@@ -45,13 +45,23 @@ params:
      
   showInAccordion:
     - item: aboutme
-      expand: false
+      expand: true
     - item: experience
+      expand: false
     - item: education
+      expand: false
+    - item: certification
+      expand: false
+    - item: education
+      expand: false
     - item: publication
+      expand: false
     - item: project
+      expand: false
     - item: skill
+      expand: false
     - item: hobby
+      expand: false
   aboutme:
     title: About Me
     icon: fas fa-user
