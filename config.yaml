@@ -55,7 +55,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am a Technical writer with three years of experience writing Product documentation, Marketing copy, technical blog posts, User guides, and API documentation to ease the adoption and use of software technologies.
+    description: Three years of experience as a technical writer specializing in technical blog posts, marketing and website copy, technical guides, website information architecture (IA) assessments, and API documentation to facilitate the adoption and use of software technologies
   publication:
     title: Publications
     icon: fas fa-book
@@ -130,7 +130,7 @@ params:
     list:
       - degree: Technical Writing Mentorship
         college: Linux Foundation
-        dates: June 2024- August 2024
+        dates: 2024
   
       - degree: Google Developers Technical Writing Course
         college: Google

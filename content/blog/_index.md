@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "Sandra Blogs"
 weight: 100
 ---
