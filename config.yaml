@@ -6,7 +6,7 @@ build:
   writeStats: true
 params:
   title: 
-  author: Darshan Baral
+  author: 
   description: Website title
   copyright: >-
     powered by [hugo](https://gohugo.io/) 
@@ -115,9 +115,12 @@ params:
       - title: Redesign of the CNCF Vitess Project Website
         url: "https://github.com/vitessio/website/issues/1955"
         description: Ongoing project to implement CNCF analysis and recommendations of the Vitess website
-      - title: CNCF TUF Website Assessment and Redesign 
-        url: "https://github.com/Dindihub/TUF-docs-analysis/tree/main/analyses/0012-TUF"
-        description: This project was part of my mentorship at the Linux Foundation.I analyzed The Update Framework (TUF) documentation and providing improvements according to the CNCF standards.I worked with  mentors from CNCF and TUF to provide improvement to the current website which included creating a new documentation website.
+      - title: CNCF TUF Website Assessment  
+        url: "https://github.com/cncf/techdocs/blob/main/analyses/0012-TUF/analysis.md"
+        description: This project was part of my mentorship at the Linux Foundation. I analyzed The Update Framework (TUF) documentation and providing improvements according to the CNCF standards.I worked with  mentors from CNCF and TUF to provide improvement to the current website which included creating a new documentation website.
+      - title: TUF website Redesign project  
+        url: "https://github.com/Dindihub/docsy-tuf.io"
+        description:  After assessement, it was recommended that TUF get a new docs website to cater to user needs. I worked with my CNCF mentor redesign and publish the new website.
 
       - title: Twilio API Reference Docs on Readme.io
         url: "https://twilio-api-docs.readme.io/reference/getting-started-with-your-api"
