@@ -46,9 +46,9 @@ params:
   showInAccordion:
     - item: aboutme
       expand: false
-    - item: publication
-      expand: false
     - item: project
+      expand: false
+    - item: publication
       expand: false
     - item: skill
       expand: false
