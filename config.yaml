@@ -59,7 +59,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am a Software technical writer specializing in technical blog posts, marketing and website copy, technical guides, Information architecture (IA) assessments, and API documentation to facilitate the adoption and use of software technologies. I have a background in Web development and enjoy designing functional IA for websites for tech projects.bsites.
+    description: I am a Software technical writer specializing in technical blog posts, marketing and website copy, technical guides, Information architecture (IA) assessments, and API documentation to facilitate the adoption and use of software technologies. I have a background in Web development and enjoy designing functional IA for tech websites.
   publication:
     title: Publications
     icon: fas fa-book
